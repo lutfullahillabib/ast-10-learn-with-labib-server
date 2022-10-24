@@ -1,0 +1,56 @@
+[
+    {
+        "id": "01",
+        "image": "https://i.ibb.co/55sXy59/C.png",
+        "details": "C is a popular, simple, and flexible general-purpose computer programming language. Dennis M Ritchie develops it in 1972 at AT&T. It is a combination of both low-level programming language as well as a high-level programming language. It is used to design applications like Text Editors, Compilers, Network devices, and many more.",
+        "category": "C"
+    },
+    {
+        "id": "02",
+        "image": "https://i.ibb.co/TkR54qR/C.png",
+        "details": "C++ is one of the thousands of programming languages that we use to develop software. C++ programming language is developed by Bjarne Stroustrup in 1980. It is similar to the C programming language but also includes some additional features such as exception handling, object-oriented programming, type checking, etc.",
+        "category": "C++"
+    },
+    {
+        "id": "03",
+        "image": "https://i.ibb.co/SvrNqTh/python.png",
+        "details": "Python is one of the most widely used user-friendly programming languages. It is an open-source and easy to learn programming language developed in the 1990s. It is mostly used in Machine learning, Artificial intelligence, Big Data, GUI based desktop applications, and Robotics.",
+        "category": "Python"
+    },
+    {
+        "id": "04",
+        "image": "https://i.ibb.co/GMLZ9ht/SQL.png",
+        "details": "SQL (structured query language) is a language for specifying the organization of databases (collections of records). Databases organized with SQL are called relational, because SQL provides the ability to query a database for information that falls in a given relation.",
+        "category": "SQL"
+    },
+    {
+        "id": "05",
+        "image": "https://i.ibb.co/0qHWBXZ/PHP.png",
+        "details": "PHP stands for Hypertext Preprocessor. It is an open-source, powerful server-side scripting language mainly used to create static as well as dynamic websites. It is developed by Rasmus Laird in 1994. Inside the php, we can also write HTML, CSS, and JavaScript code. To save php file, file extension .php is used.",
+        "category": "PHP"
+    },
+    {
+        "id": "06",
+        "image": "https://i.ibb.co/GM4C6MP/JS.png",
+        "details": "JavaScript is a type of scripting language that is used on both client-side as well as a server-side. It is developed in the 1990s for the Netscape Navigator web browser. It allows programmers to implement complex features to make web pages alive. It helps programmers to create dynamic websites, servers, mobile applications, animated graphics, games, and more.",
+        "category": "JavaScript"
+    },
+    {
+        "id": "07",
+        "image": "https://i.ibb.co/TBdgYLx/C.png",
+        "details": "C# (pronounced as C sharp) is a modern, general-purpose, and object-oriented programming language used with XML based Web services on the .NET platform. It is mainly designed to improve productivity in web applications. It is easier to learn for those users who have sufficient knowledge of common programming languages like C, C++, or Java.",
+        "category": "C#"
+    },
+    {
+        "id": "08",
+        "image": "https://i.ibb.co/Y0BKGvD/java.png",
+        "details": "Java is a simple, secure, platform-independent, reliable, architecture-neutral high-level programming language developed by Sun Microsystems in 1995. Now, Java is owned by Oracle. It is mainly used to develop bank, retail, information technology, android, big data, research community, web, and desktop applications.",
+        "category": "JAVA"
+    },
+    {
+        "id": "09",
+        "image": "https://i.ibb.co/G9LJvCr/swift.jpg",
+        "details": "Swift is a powerful and intuitive programming language for iOS, iPadOS, macOS, tvOS, and watchOS. Writing Swift code is interactive and fun, the syntax is concise yet expressive, and Swift includes modern features developers love. Swift code is safe by design and produces software that runs lightning-fast.",
+        "category": "Swift"
+    }
+]

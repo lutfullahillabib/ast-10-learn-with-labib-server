@@ -1,0 +1,92 @@
+[
+    {
+        "id": "01",
+        "course_name": "Modern React with Redux",
+        "image": "https://i.ibb.co/jfzXKSy/Modern-React-with-Redux.png",
+        "short_details": "Master React and Redux with React Router, Webpack, and Create-React-App. Includes Hooks!.",
+        "rating": "4.3",
+        "price": "12.99",
+        "category": "React.JS",
+        "details": "Create dynamic web apps using the latest in web technology. Acquire the programming skills needed to obtain a software engineering job. Practice your skills with many large projects, exercises, and quizzes. Master the fundamental concepts behind React and Redux. Become fluent in the toolchain supporting React, including NPM, Webpack, Babel, and ES6/ES2015 Javascript syntax Be the engineer who explains how Redux works to everyone else, because you know the fundamentals so well Realize the power of building reusable components."
+    },
+    {
+        "id": "02",
+        "course_name": "Advanced React and Redux",
+        "image": "https://i.ibb.co/bWLSmrH/Advanced-React-and-Redux.png",
+        "short_details": "Walkthroughs on advanced React v16.6.3 and Redux v4.0.0 - Authentication, Testing, Middlewares, HOC's, and Deployment.",
+        "rating": "4.6",
+        "price": "11.99",
+        "category": "React.JS",
+        "details": "Build a scaleable API with authentication using Express, Mongo, and Passport. Learn the differences between cookie-based and token-based authentication. Figure out what a Higher Order Component is and how to use it to write dramatically less code. Write Redux middleware from scratch to uncover what is happening behind the scenes with Redux. Set up your own testing environment with Jest and Enzyme. Realize the power of building composable components"
+    },
+    {
+        "id": "03",
+        "course_name": "React basic in just 1 hour [2022]",
+        "image": "https://i.ibb.co/h7sHPmb/React-basic-in-just-1-hour-2022.png",
+        "short_details": "The quick guide to learn basic concepts and workflow of how to build React app.",
+        "rating": "4.3",
+        "price": "11.99",
+        "category": "React.JS",
+        "details": "Taste of how to build your very first React component. How to handle event in components. Understand two key concepts of React: State and Props. How to reuse and nest components. How to transfer data between Parent, Child components."
+    },
+    {
+        "id": "04",
+        "course_name": "Complete Next.js with React & Node",
+        "image": "https://i.ibb.co/yhsCXq6/Complete-Next-js-with-React-Node.png",
+        "short_details": "Learn Next JS & Headless WordPress & build a fully functioning real estate property website with NextJS v12 & WordPress",
+        "rating": "4.6",
+        "price": "11.99",
+        "category": "Next.JS",
+        "details": "Develop serverless & classical web applications with the latest Next JS & React. Create SEO (Search Engine Optimisation) and Isomorphic Friendly Applications. Understand web concepts clearly by creating real-world applications. Establish yourself in field of the exciting Next and React web development environment."
+    },
+    {
+        "id": "05",
+        "course_name": "Next.js Dev to Deployment",
+        "image": "https://i.ibb.co/0qYmWZz/Next-js-Dev-to-Deployment.png",
+        "short_details": "Learn Next.js by building a music event website.",
+        "rating": "4.6",
+        "price": "11.99",
+        "category": "Next.JS",
+        "details": "Build a music event application from start to finish. Create a backend using Strapi CMS. Pagination, search, image uploading with Cloudinary. Deploy to production using Vercel. Learn the fundamentals of NextJS. JWT Authentication / HttpOnly Cookie Storage. Build a static blog with pagination, search & categories using Markdown."
+    },
+    {
+        "id": "06",
+        "course_name": "Javascript for Beginners",
+        "image": "https://i.ibb.co/Wxnwhhj/Javascript-for-Beginners.png",
+        "short_details": "Learn javascript online and supercharge your web design with this Javascript for beginners training course.",
+        "rating": "4.4",
+        "price": "11.99",
+        "category": "JavaScript",
+        "details": "Extensive, informative and interesting video lecture. Complete Code demonstrated in lecture. Lab Exercises. Lab Solution Sets. All Powerpoint Demonstrations Used in Course. Instructor contact Email for questions and clarifications. Coverage of all important primary Javascript concepts."
+    },
+    {
+        "id": "07",
+        "course_name": "JavaScript: Understanding the Weird Parts",
+        "image": "https://i.ibb.co/82m6Bk9/Java-Script-Understanding-the-Weird-Parts.png",
+        "short_details": "An advanced JavaScript course for everyone! Scope, closures, prototypes, 'this', build your own framework, and more.",
+        "rating": "4.6",
+        "price": "11.99",
+        "category": "JavaScript",
+        "details": "Grasp how Javascript works and it's fundamental concepts. Write solid, good Javascript code. Understand advanced concepts such as closures, prototypal inheritance, IIFEs, and much more. Drastically improve your ability to debug problems in Javascript. Avoid common pitfalls and mistakes other Javascript coders make. Understand the source code of popular Javascript frameworks. Build your own Javascript framework or library."
+    },
+    {
+        "id": "08",
+        "course_name": "The Complete Python Programming Course",
+        "image": "https://i.ibb.co/47f4RNz/The-Complete-Python-Programming-Course.png",
+        "short_details": "Learn A-Z everything about Python, from the basics, to advanced topics like Python GUI, Python Data Analysis, and more!",
+        "rating": "4.3",
+        "price": "11.99",
+        "category": "Python",
+        "details": "Create their own Python Programs. Parse the Web and Create their own Games. Become an experienced Python Programmer."
+    },
+    {
+        "id": "09",
+        "course_name": "Learn Python Programming from scratch",
+        "image": "https://i.ibb.co/hMqssMj/Learn-Python-Programming-from-scratch.png",
+        "short_details": "Python For Beginners : This course is meant for absolute beginners in programming or in python.",
+        "rating": "4.3",
+        "price": "11.99",
+        "category": "Python",
+        "details": "To learn the python language. To learn the CORE skills to understand any programming language"
+    }
+]
