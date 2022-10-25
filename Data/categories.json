@@ -38,8 +38,8 @@
     {
         "id": "07",
         "image": "https://i.ibb.co/TBdgYLx/C.png",
-        "info": "C# (pronounced as C sharp) is a modern, general-purpose, and object-oriented programming language used with XML based Web services on the .NET platform. It is mainly designed to improve productivity in web applications. It is easier to learn for those users who have sufficient knowledge of common programming languages like C, C++, or Java.",
-        "category": "C#"
+        "info": "CSharp (pronounced as C sharp) is a modern, general-purpose, and object-oriented programming language used with XML based Web services on the .NET platform. It is mainly designed to improve productivity in web applications. It is easier to learn for those users who have sufficient knowledge of common programming languages like C, C++, or Java.",
+        "category": "CSharp"
     },
     {
         "id": "08",

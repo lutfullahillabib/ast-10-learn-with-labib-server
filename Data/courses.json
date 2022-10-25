@@ -67,7 +67,7 @@
         "sub_title": "Learn OOP fundamentals applied to the C# programming language.",
         "rating": "4.8",
         "price": "19.99",
-        "category": "C#",
+        "category": "CSharp",
         "author": "Zoran Horvat",
         "requirements": [
             "Knowledge of any programming language (including C#) is a plus"
@@ -81,7 +81,7 @@
         "sub_title": "Learn C# Programming - WPF, Databases, Linq, Collections, Game Development with Unity. More than just the C# basics!.",
         "rating": "4.5",
         "price": "11.99",
-        "category": "C#",
+        "category": "CSharp",
         "author": "Denis Panjuta",
         "requirements": [
             "Visual Studio Community Edition (FREE)",
