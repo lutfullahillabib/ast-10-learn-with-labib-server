@@ -1,92 +1,275 @@
 [
     {
         "id": "01",
-        "course_name": "Modern React with Redux",
-        "image": "https://i.ibb.co/jfzXKSy/Modern-React-with-Redux.png",
-        "short_details": "Master React and Redux with React Router, Webpack, and Create-React-App. Includes Hooks!.",
-        "rating": "4.3",
-        "price": "12.99",
-        "category": "React.JS",
-        "details": "Create dynamic web apps using the latest in web technology. Acquire the programming skills needed to obtain a software engineering job. Practice your skills with many large projects, exercises, and quizzes. Master the fundamental concepts behind React and Redux. Become fluent in the toolchain supporting React, including NPM, Webpack, Babel, and ES6/ES2015 Javascript syntax Be the engineer who explains how Redux works to everyone else, because you know the fundamentals so well Realize the power of building reusable components."
+        "course_name": "C Programming For Beginners - Master the C Language",
+        "image": "https://i.ibb.co/hRVF5hH/c1.jpg",
+        "sub_title": "C Programming will increase career options. Become a better dev in other languages by learning C. Pointers explained.",
+        "rating": "4.4",
+        "price": "16.99",
+        "category": "C",
+        "author": "Jason Fedin",
+        "requirements": [
+            "A computer running Microsoft Windows, Linux or the Mac operating systems",
+            "At least 4GB of ram is recommended",
+            "No programming experience, all concepts taught in this class!"
+        ],
+        "description": "Have you never programmed a computer before, and think or have been told that C is a good programming language to get started with.  It is! Maybe you have some experience with other programming languages, but want to learn C.  It's a great language to add to your resume! Or perhaps you are stuck in a low paying programming job, and want to move up to a better, more senior position.  Learning C can help you! The fact is, learning how to program in C is not only an excellent programming language to get started with, but it will also make you a better programming in other computer languages!."
     },
     {
         "id": "02",
-        "course_name": "Advanced React and Redux",
-        "image": "https://i.ibb.co/bWLSmrH/Advanced-React-and-Redux.png",
-        "short_details": "Walkthroughs on advanced React v16.6.3 and Redux v4.0.0 - Authentication, Testing, Middlewares, HOC's, and Deployment.",
-        "rating": "4.6",
-        "price": "11.99",
-        "category": "React.JS",
-        "details": "Build a scaleable API with authentication using Express, Mongo, and Passport. Learn the differences between cookie-based and token-based authentication. Figure out what a Higher Order Component is and how to use it to write dramatically less code. Write Redux middleware from scratch to uncover what is happening behind the scenes with Redux. Set up your own testing environment with Jest and Enzyme. Realize the power of building composable components"
+        "course_name": "C Programming Bootcamp - The Complete C Language Course",
+        "image": "https://i.ibb.co/NxVTQn3/c2.jpg",
+        "sub_title": "C Programming 2022: Master the Fundamentals of C Programming Language. Join the Comprehensive C Bootcamp Masterclass!.",
+        "rating": "4.5",
+        "price": "14.99",
+        "category": "C",
+        "author": "Vlad Budnitski",
+        "requirements": [
+            "A computer with Windows, Linux or Mac OS",
+            "4GB RAM (recommended)",
+            "No prior knowledge is required! This course if for Absolute Beginners!"
+        ],
+        "description": "This course has been optimized to meet the requirements and demands of students who are eager to learn the C Programming Language in the most easy and attractive manner. Including handpicked coding materials and over 100 exercises with full video solutions - this bestseller course is expected to provide you with everything you need to get started (for beginners) as well as provide you with beneficial knowledge if you're working at High-tech industry (especially in the Embedded, Microcontrollers, Cyber, and other domains)."
     },
     {
         "id": "03",
-        "course_name": "React basic in just 1 hour [2022]",
-        "image": "https://i.ibb.co/h7sHPmb/React-basic-in-just-1-hour-2022.png",
-        "short_details": "The quick guide to learn basic concepts and workflow of how to build React app.",
-        "rating": "4.3",
-        "price": "11.99",
-        "category": "React.JS",
-        "details": "Taste of how to build your very first React component. How to handle event in components. Understand two key concepts of React: State and Props. How to reuse and nest components. How to transfer data between Parent, Child components."
+        "course_name": "Beginning C++ Programming - From Beginner to Beyond",
+        "image": "https://i.ibb.co/d5bMs3w/c-1.jpg",
+        "sub_title": "Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered. C++20 info see below.",
+        "rating": "4.6",
+        "price": "15.99",
+        "category": "C++",
+        "author": "Dr. Frank Mitropoulos",
+        "requirements": [
+            "Access to a computer running Windows, Mac OS X or Linux"
+        ],
+        "description": "Which programming language is often seen as a badge of honor among software developers?  C++ Which programming language can you learn that when added to your resume,  will often get you a job interview?  C++ Which programming language is routinely ranked in the top 5 programming languages by popularity, and been consistently in the top 10 for close to 20 years?  C++."
     },
     {
         "id": "04",
-        "course_name": "Complete Next.js with React & Node",
-        "image": "https://i.ibb.co/yhsCXq6/Complete-Next-js-with-React-Node.png",
-        "short_details": "Learn Next JS & Headless WordPress & build a fully functioning real estate property website with NextJS v12 & WordPress",
+        "course_name": "Learn C++ Programming -Beginner to Advance- Deep Dive in C++",
+        "image": "https://i.ibb.co/mXGMxV4/c-2.jpg",
+        "sub_title": "Learn C++ Programming -Beginner to Advance- Deep Dive in C++.",
         "rating": "4.6",
-        "price": "11.99",
-        "category": "Next.JS",
-        "details": "Develop serverless & classical web applications with the latest Next JS & React. Create SEO (Search Engine Optimisation) and Isomorphic Friendly Applications. Understand web concepts clearly by creating real-world applications. Establish yourself in field of the exciting Next and React web development environment."
+        "price": "16.99",
+        "category": "C++",
+        "author": "Abdul Bari",
+        "requirements": [
+            "C++ Compiler and IDE, Like CodeBlocks , Eclipse , Xcode etc.",
+            "No Programming knowledge required. Course covers C and C++ programming concepts in detail."
+        ],
+        "description": "This course covers C++ from very basic to more advanced features. Concepts of C++ programming are made very simple and easy. Every topic is covered in greater detail. All Lecture are discussed both on white board like a classroom session and practical demo.Programs and Bullet points are provided as resource.Every Topic is Explained with Real life Examples. This course also covers features of modern C++ 11."
     },
     {
         "id": "05",
-        "course_name": "Next.js Dev to Deployment",
-        "image": "https://i.ibb.co/0qYmWZz/Next-js-Dev-to-Deployment.png",
-        "short_details": "Learn Next.js by building a music event website.",
-        "rating": "4.6",
-        "price": "11.99",
-        "category": "Next.JS",
-        "details": "Build a music event application from start to finish. Create a backend using Strapi CMS. Pagination, search, image uploading with Cloudinary. Deploy to production using Vercel. Learn the fundamentals of NextJS. JWT Authentication / HttpOnly Cookie Storage. Build a static blog with pagination, search & categories using Markdown."
+        "course_name": "Beginning Object-oriented Programming with C#",
+        "image": "https://i.ibb.co/mTtqfxt/c-1.png",
+        "sub_title": "Learn OOP fundamentals applied to the C# programming language.",
+        "rating": "4.8",
+        "price": "19.99",
+        "category": "C#",
+        "author": "Zoran Horvat",
+        "requirements": [
+            "Knowledge of any programming language (including C#) is a plus"
+        ],
+        "description": "In this course, you will learn the basic principles of object-oriented programming, and then learn how to apply those principles to construct an operational and correct code using the C# programming language and .NET. As the course progresses, you will learn such programming concepts as objects, method resolution, polymorphism, object composition, class inheritance, object substitution, etc., but also the basic principles of object-oriented design and even project management, such as abstraction, dependency injection, open-closed principle, tell don't ask principle, the principles of agile software development and many more."
     },
     {
         "id": "06",
-        "course_name": "Javascript for Beginners",
-        "image": "https://i.ibb.co/Wxnwhhj/Javascript-for-Beginners.png",
-        "short_details": "Learn javascript online and supercharge your web design with this Javascript for beginners training course.",
-        "rating": "4.4",
+        "course_name": "Complete C# Masterclass",
+        "image": "https://i.ibb.co/XL1xmXs/c-2.jpg",
+        "sub_title": "Learn C# Programming - WPF, Databases, Linq, Collections, Game Development with Unity. More than just the C# basics!.",
+        "rating": "4.5",
         "price": "11.99",
-        "category": "JavaScript",
-        "details": "Extensive, informative and interesting video lecture. Complete Code demonstrated in lecture. Lab Exercises. Lab Solution Sets. All Powerpoint Demonstrations Used in Course. Instructor contact Email for questions and clarifications. Coverage of all important primary Javascript concepts."
+        "category": "C#",
+        "author": "Denis Panjuta",
+        "requirements": [
+            "Visual Studio Community Edition (FREE)",
+            "A Windows (10) PC is required for the WPF and Database portions of the course"
+        ],
+        "description": "Maybe you want to work as a developer? Then you are in the right place. In this course, you are going to discover how to become a c# developer - one of the best programming languages on earth! C# is one of the few programming languages which allows you to create amazing cross-platform Mobile Apps, Games, and PC Programs. Bringing an Idea to life is one of the best feelings one can have, but the path to get there is often full of challenges. So I have created a course that makes this path as easy as possible all with the help of c# so that you become a skilled c# developer!"
     },
     {
         "id": "07",
-        "course_name": "JavaScript: Understanding the Weird Parts",
-        "image": "https://i.ibb.co/82m6Bk9/Java-Script-Understanding-the-Weird-Parts.png",
-        "short_details": "An advanced JavaScript course for everyone! Scope, closures, prototypes, 'this', build your own framework, and more.",
+        "course_name": "Learn Python Programming Masterclass",
+        "image": "https://i.ibb.co/WFvMY0V/py1.jpg",
+        "sub_title": "This Python For Beginners Course Teaches You The Python Language Fast. Includes Python Online Training With Python 3.",
         "rating": "4.6",
-        "price": "11.99",
-        "category": "JavaScript",
-        "details": "Grasp how Javascript works and it's fundamental concepts. Write solid, good Javascript code. Understand advanced concepts such as closures, prototypal inheritance, IIFEs, and much more. Drastically improve your ability to debug problems in Javascript. Avoid common pitfalls and mistakes other Javascript coders make. Understand the source code of popular Javascript frameworks. Build your own Javascript framework or library."
+        "price": "16.99",
+        "category": "Python",
+        "author": "Jean-Paul Roberts",
+        "requirements": [
+            "You’ve either already got it or it’s FREE. Here’s the checklist:",
+            "A computer - Windows, Mac, and Linux are all supported. Setup and installation instructions are included for each platform.",
+            "Your enthusiasm to learn this go-to programming language. It’s a valuable lifetime skill which you can’t un-learn!",
+            "Everything else needed to start programming in Python is already included in the course."
+        ],
+        "description": "This course is aimed at complete beginners who have never programmed before, as well as existing programmers who want to increase their career options by learning Python. The fact is, Python is one of the most popular programming languages in the world. Huge companies like Google use it in mission critical applications like Google Search. And Python is the number one language choice for machine learning, data science and artificial intelligence. To get those high paying jobs you need an expert knowledge of Python, and that’s what you will get from this course."
     },
     {
         "id": "08",
-        "course_name": "The Complete Python Programming Course",
-        "image": "https://i.ibb.co/47f4RNz/The-Complete-Python-Programming-Course.png",
-        "short_details": "Learn A-Z everything about Python, from the basics, to advanced topics like Python GUI, Python Data Analysis, and more!",
-        "rating": "4.3",
-        "price": "11.99",
+        "course_name": "100 Days of Code: The Complete Python Pro Bootcamp for 2022",
+        "image": "https://i.ibb.co/znHKH66/py2.jpg",
+        "sub_title": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
+        "rating": "4.7",
+        "price": "17.99",
         "category": "Python",
-        "details": "Create their own Python Programs. Parse the Web and Create their own Games. Become an experienced Python Programmer."
+        "author": "Dr. Angela Yu",
+        "requirements": [
+            "No programming experience needed - I'll teach you everything you need to know",
+            "A Mac or PC computer with access to the internet",
+            "No paid software required - I'll teach you how to use PyCharm, Jupyter Notebooks and Google Colab",
+            "I'll walk you through, step-by-step how to get all the software installed and set up"
+        ],
+        "description": "Welcome to the 100 Days of Code - The Complete Python Pro Bootcamp, the only course you need to learn to code with Python. With over 500,000 5 STAR reviews and a 4.8 average, my courses are some of the HIGHEST RATED courses in the history of Udemy!  100 days, 1 hour per day, learn to build 1 project per day, this is how you master Python. At 60+ hours, this Python course is without a doubt the most comprehensive Python course available anywhere online. Even if you have zero programming experience, this course will take you from beginner to professional."
     },
     {
         "id": "09",
-        "course_name": "Learn Python Programming from scratch",
-        "image": "https://i.ibb.co/hMqssMj/Learn-Python-Programming-from-scratch.png",
-        "short_details": "Python For Beginners : This course is meant for absolute beginners in programming or in python.",
-        "rating": "4.3",
+        "course_name": "PHP for Beginners - Become a PHP Master - CMS Project",
+        "image": "https://i.ibb.co/8bmVVbx/php1.jpg",
+        "sub_title": "PHP for Beginners: learn everything you need to become a professional PHP developer with practical exercises & projects.",
+        "rating": "4.4",
         "price": "11.99",
-        "category": "Python",
-        "details": "To learn the python language. To learn the CORE skills to understand any programming language"
+        "category": "PHP",
+        "author": "Edwin Diaz",
+        "requirements": [
+            "Some HTML is needed for this course (You can get my free HTML course on that)"
+        ],
+        "description": "Are you new to PHP or need a refresher? Then this course will help you get all the fundamentals of Procedural PHP, Object Oriented PHP, MYSQLi, and ending the course by building a CMS system similar to WordPress, Joomla, or Drupal. Knowing PHP has allowed me to make enough money to stay home and make courses like this one for students all over the world. Being a PHP developer can allow anyone to make really good money online and offline, developing dynamic applications. Knowing PHP will allow you to build web applications, websites or Content Management systems, like WordPress, Facebook, Twitter or even Google."
+    },
+    {
+        "id": "10",
+        "course_name": "Learn Advanced PHP Programming",
+        "image": "https://i.ibb.co/vHQF4Pd/php2.jpg",
+        "sub_title": "Are you ready to take your web dev skills to the next level? Includes 6 hours of training with exercise files.",
+        "rating": "4.2",
+        "price": "14.99",
+        "category": "PHP",
+        "author": "Simon Sez IT",
+        "requirements": [
+            "A text editor and a passion for learning.",
+            "Existing knowledge of PHP"
+        ],
+        "description": "During this 6 hour advanced PHP course, discover the power of PHP as you take your website development skills to the next level. Your professional instructor combines practical lectures that ensure you have a solid grasp of the concepts with coding examples that include exercise files so you get real hands-on practice. Follow along as you learn functions, date and time manipulation, debugging and application logging. Discover the use of strings, REGEX, runtime error handling, the use of file resources, manipulating file date including reading and parsing data in a CSV file format."
+    },
+    {
+        "id": "11",
+        "course_name": "JavaScript For Beginners - Learn JavaScript From Scratch",
+        "image": "https://i.ibb.co/y0NxsJq/js1.png",
+        "sub_title": "Learn The JavaScript Programming Language Completely From Scratch Without Frameworks.",
+        "rating": "4.4",
+        "price": "13.99",
+        "category": "JavaScript",
+        "author": "Robin Haney",
+        "requirements": [
+            "Anyone Who Wants To Learn About JavaScript Can Enroll In This Course!"
+        ],
+        "description": "Let me show you how I helped over 22,253 students learn this wonderful programming language we call JavaScript. With over 10 years of experience as a web developer I will show you how to become a JavaScript developer. JavaScript For Beginners. This course is a step by step guide that will take your hand and guide you through the absolute basics and show you everything you need to learn in order to get started with JavaScript. I've put a lot of effort into this course to make sure that the videos are recorded in high quality, the audio is clear, and the lessons are engaging and informative."
+    },
+    {
+        "id": "12",
+        "course_name": "The Complete JavaScript Course 2022: From Zero to Expert!",
+        "image": "https://i.ibb.co/RjVrfVm/js2.jpg",
+        "sub_title": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!.",
+        "rating": "4.7",
+        "price": "19.99",
+        "category": "JavaScript",
+        "author": "Jonas Schmedtmann",
+        "requirements": [
+            "Jonas Schmedtmann",
+            "Any computer and OS will work — Windows, macOS or Linux. We will set up your text editor the course.",
+            "A basic understanding of HTML and CSS is a plus, but not a must! The course includes an HTML and CSS crash course."
+        ],
+        "description": "JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world. That's why you want to learn JavaScript too. And you came to the right place!"
+    },
+    {
+        "id": "13",
+        "course_name": "Master The Java Programming Language",
+        "image": "https://i.ibb.co/rcjBX0x/jv1.jpg",
+        "sub_title": "A step by step guide to master the Java programming language from ground up.",
+        "rating": "4.6",
+        "price": "16.99",
+        "category": "JAVA",
+        "author": "Sagar Uppuluri",
+        "requirements": [
+            "Good to have atleast basic understanding of programming constructs such as variable declaration, loops, arrays, functions."
+        ],
+        "description": "Good to have atleast basic understanding of programming constructs such as variable declaration, loops, arrays, functions. This made me design this course to address the first part of it, i.e. the Java programming language, where you will be focused on the most important features of Java programming language and see where and when to apply the features effectively and efficiently."
+    },
+    {
+        "id": "14",
+        "course_name": "Modern Java: Learn about the Java Programming Language",
+        "image": "https://i.ibb.co/HYrwJXv/jv2.jpg",
+        "sub_title": "Learn about JavaFX, JavaIO, JDBC & much more. By following real-world examples & high quality produced video tutorials.",
+        "rating": "4.7",
+        "price": "18.99",
+        "category": "JAVA",
+        "author": "Pascal Krause ENG",
+        "requirements": [
+            "A computer with working internet connection, also be able to install software & programs (Windows, Linux or Mac it does not depends which system your are on).",
+            "Willingness to learn about new important & advanced features, by following a strict course curriculum & course plan to make sure to learn about java programming.",
+            "No more! It's just yourself & your motivation, which makes you able to learn a new skill."
+        ],
+        "description": "Hi! So my name is Pascal Krause and I am one of the leading instructors of this course, where you fully learn how to successfully learn programming with the popular programming language Java, by using the powerful IntellIJ IDEA IDE. This being said, this course provides you everything you need to start creating & writing your own custom program, by using the programming language Java. So basically as already said this course fully covers the programming language java. So in this course you will get step-by-step to your own best results you can & will achive. So you will start learning all this, by following the lectures, understanding images & materials and solving high advanced real-world examples & practice tests. Also this course will offer you many background things, like creating & writing your first program, working with databases and files, apply excel to java, variables, datatypes & much more."
+    },
+    {
+        "id": "15",
+        "course_name": "The Complete SQL Bootcamp 2022: Go from Zero to Hero",
+        "image": "https://i.ibb.co/JKJQ2wm/sql1.jpg",
+        "sub_title": "Become an expert at SQL!.",
+        "rating": "4.7",
+        "price": "17.99",
+        "category": "SQL",
+        "author": "Jose Portilla",
+        "requirements": [
+            "No prior technical experience is required! All you need a computer!"
+        ],
+        "description": "You'll learn how to read and write complex queries to a database using one of the most in demand skills - PostgreSQL. These skills are also applicable to any other major SQL database, such as MySQL, Microsoft SQL Server, Amazon Redshift, Oracle, and much more. Learning SQL is one of the fastest ways to improve your career prospects as it is one of the most in demand tech skills! In this course you'll learn quickly and receive challenges and tests along the way to improve your understanding!"
+    },
+    {
+        "id": "16",
+        "course_name": "The Advanced SQL Server Masterclass For Data Analysis",
+        "image": "https://i.ibb.co/pnqdSfh/sql2.jpg",
+        "sub_title": "Take your SQL skills - and your career - to the next level.",
+        "rating": "4.6",
+        "price": "19.99",
+        "category": "SQL",
+        "author": "Travis Cuzick",
+        "requirements": [
+            "A working knowledge of SQL fundamentals - including SELECT statements, applying criteria, table joins, and aggregate queries - is necessary for success in this course",
+            "Microsoft SQL Server 2019 and SQL Server Management Studio; these are both available for free, and I’ll walk you through installation and setup",
+            "Access to a Windows operating system (SQL Server only runs on Windows)",
+            "Specific knowledge of SQL Server is helpful, but not required"
+        ],
+        "description": "Do you already know the basics of SQL, but sometimes get frustrated when you encounter situations where the basics just aren't enough? Are you a junior analyst who wants to level up to advanced SQL so you can take the next step in your career? Or maybe you're a data scientist who knows enough SQL to get by, but want to take your skills further so you can spend less time wrangling data and more time building models. If any of these sound like your situation, then you're in the right place. This course on advanced SQL for data analysis  has everything that isn't covered in introductory SQL courses. The curriculum goes DEEP, spanning all the advanced techniques you'll ever need to wrangle and analyze data in the fastest and most efficient way possible. And these concepts aren't presented in isolation; everything is taught in the context of real-world analytics scenarios, meaning you'll be ready to apply these techniques on the job from day one."
+    },
+    {
+        "id": "17",
+        "course_name": "Swift 5 Programming For Beginners",
+        "image": "https://i.ibb.co/hmt8jXX/sw1.jpg",
+        "sub_title": "Learn to Code Swift 5 with Mac's Xcode Playgrounds or Linux or Windows. make iOS 12 iPhone Apps or Command Line Tools.",
+        "rating": "4.7",
+        "price": "19.99",
+        "category": "Swift",
+        "author": "Nick Walter",
+        "requirements": [
+            "Nothing. This course is for a complete beginner on any computer"
+        ],
+        "description": "Swift is a programming language that allows you to write software for iPhones, iPads, Macs, Apple Watches, Apple TVs, desktops, servers, or anything else that runs code! Swift is great for new programmers because it is very intuitive, it continues to evolve as Apple adds new features, it is relatively easy to catch software bugs compared to other languages, and you can see your results immediately by running code in a Playground."
+    },
+    {
+        "id": "18",
+        "course_name": "Learn the Swift Programming Language Step by Step",
+        "image": "https://i.ibb.co/gP4pmDD/sw2.jpg",
+        "sub_title": "Learn the fundamentals of Apples new and intuitive programming language Swift!.",
+        "rating": "4.2",
+        "price": "12.99",
+        "category": "Swift",
+        "author": "Stefan DeClerck",
+        "requirements": [
+            "A Mac",
+            "Xcode - iOS SDK installed on Mac"
+        ],
+        "description": "Do you want to learn to develop apps for iPhone, Apple Watch, and Mac? Great! you have come to the right place. To develop applications for these devices, you are going to have to understand the Swift programming language by Apple. This course will help you understand all you need to know to program in the simplistic language Swift, and give you a boost to start your iOS and Mac OS X development career. This is a very simple and effective course on learning the Swift programming language."
     }
 ]
